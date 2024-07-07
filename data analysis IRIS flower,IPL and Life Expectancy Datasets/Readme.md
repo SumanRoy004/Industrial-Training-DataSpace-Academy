@@ -1,1 +1,0 @@
-- ## Data Analysis of IRIS flower,IPL and Life Expectancy Datasets using Statistical tools
