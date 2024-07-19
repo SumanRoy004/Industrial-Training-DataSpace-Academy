@@ -1,0 +1,1 @@
+- # Dividing the students (cgpa,IQ) data into Clusters
