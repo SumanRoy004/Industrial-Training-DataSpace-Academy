@@ -1,1 +1,0 @@
-- # Prediction on,is a person purchasing iphone or not..using Logistic Regression
