@@ -1,1 +1,1 @@
-- # Prediction of placement package based on cgpa using linear regression
+- # Linear Regression
