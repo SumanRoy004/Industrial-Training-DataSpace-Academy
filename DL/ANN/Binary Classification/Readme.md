@@ -1,1 +1,1 @@
-- # Churn Prediction using ANN
+- # Binary Classification using ANN
