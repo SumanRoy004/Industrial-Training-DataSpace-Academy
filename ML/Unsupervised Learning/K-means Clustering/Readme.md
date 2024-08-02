@@ -1,1 +1,1 @@
-- # Dividing the students (cgpa,IQ) data into Clusters
+- # K-Means Clustering
