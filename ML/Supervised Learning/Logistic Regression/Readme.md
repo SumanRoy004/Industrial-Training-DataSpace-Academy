@@ -1,1 +1,1 @@
-- # Prediction of purchasing iphone by a person using logistic regression
+- # Logistic Regression
